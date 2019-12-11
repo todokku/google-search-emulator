@@ -1,2 +1,3 @@
 # google-search-emulator
-Google search emulator with proxy
+
+Google search emulator using manipulated javascript distinguishable from real one.
